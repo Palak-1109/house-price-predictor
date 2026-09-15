@@ -38,4 +38,4 @@ The included dataset is synthetic sample data for educational/demo use. Replace 
 Predictions are estimates for educational purposes and are not professional property valuations.
 
 ## Author
-Your Name
+palak gajbhiye

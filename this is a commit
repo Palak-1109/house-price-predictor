@@ -1,0 +1,21 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitignore
+#	new file:   README.md
+#	new file:   app.py
+#	new file:   dataset.csv
+#	new file:   model.pkl
+#	new file:   npkey.txt
+#	new file:   requirements.txt
+#	new file:   train_model.py
+#
+# Untracked files:
+#	1NPDPRO5.DOC
+#
