@@ -1,3 +1,9 @@
+Student Details
+Name : Palak Gajbhiye
+Roll No. : ET23
+Sem : 3rd Yr/ 5th sem
+
+
 # 🏠 House Price Predictor
 
 A machine-learning web app that predicts an estimated house price from property details.
